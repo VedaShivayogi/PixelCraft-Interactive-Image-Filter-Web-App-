@@ -34,5 +34,5 @@ Ever wanted to apply stunning image filters instantly—without installing any s
 
 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/your-username/PixelCraft.git
-cd PixelCraft
+git clone https://github.com/VedaShivayogi/PixelCraft-Interactive-Image-Filter-Web-App-
+
