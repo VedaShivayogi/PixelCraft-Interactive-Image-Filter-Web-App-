@@ -16,7 +16,7 @@ A professional web-based image editing tool that allows users to apply real-time
 
 ## Demo
 
-[View Live Demo](https://your-demo-link-here.com) _(Replace with actual demo URL)_
+[View Live Demo](https://vedashivayogi.github.io/PixelCraft-Interactive-Image-Filter-Web-App-/filter_img.html) 
 
 ## Screenshots
 
