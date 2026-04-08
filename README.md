@@ -71,8 +71,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-[Veda] - [vedaram2002@example.com]
+[Veda] - [vedaram2002@gmail.com]
 
----
-
-_Built with passion for web development and image processing._
