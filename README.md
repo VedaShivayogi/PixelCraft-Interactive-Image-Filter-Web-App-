@@ -69,7 +69,3 @@ No installation required. Simply open the `filter_img.html` file in any modern w
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Author
-
-[Veda] - [vedaram2002@gmail.com]
-
