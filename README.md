@@ -67,4 +67,4 @@ No installation required. Simply open the `filter_img.html` file in any modern w
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for det
+This project is licensed under the MIT License - see the LICENSE file for d
